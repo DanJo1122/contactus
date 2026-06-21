@@ -1,3 +1,3 @@
 # contact_book
 
-Simple portfolio project for GitHub.
+Simple portfolio project GitHub.
